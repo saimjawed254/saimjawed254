@@ -24,19 +24,6 @@
 
 ---
 
-## 📊 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimjawed254&theme=tokyo-night&area=true&hide_border=true&range=365" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-## 📈 GitHub Insights
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saimjawed254/Profile/main/generated/overview.svg" alt="GitHub Insights" width="100%" />
-</div>
----
-
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://linkedin.com/in/saim-jawed" target="_blank">
